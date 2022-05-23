@@ -1,0 +1,562 @@
+[
+  {
+    "IDmaquinas": "01",
+    "label": "PEW 1 FORMAÇÃO",
+    "level": 0,
+    "posx": 19.7,
+    "posy": 39.5,
+    "width": 18,
+    "height": 5,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "02",
+    "label": "PEW 1 BOBINADEIRA",
+    "level": 4,
+    "posx": 147.7,
+    "posy": 39.5,
+    "width": 18,
+    "height": 5,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "03",
+    "label": "PEW 2 FORMAÇÃO",
+    "level": 0,
+    "posx": 19.7,
+    "posy": 34.186,
+    "width": 18,
+    "height": 5,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "04",
+    "label": "PEW 2 BOBINADEIRA",
+    "level": 0,
+    "posx": 147.7,
+    "posy": 34.186,
+    "width": 18,
+    "height": 5,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "52",
+    "label": "REBOBINADEIRA",
+    "level": 0,
+    "posx": 167,
+    "posy": 34.186,
+    "width": 15,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "54",
+    "label": "EV TEMPORARIA 1",
+    "level": 0,
+    "posx": 167,
+    "posy": 39.5,
+    "width": 15,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "30",
+    "label": "ARAME B",
+    "level": 0,
+    "posx": 9.19,
+    "posy": 33,
+    "width": 8,
+    "height": 10,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "49",
+    "label": "CHOPEIRAS",
+    "level": 0,
+    "posx": 9.19,
+    "posy": 22.5,
+    "width": 8,
+    "height": 10,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "29",
+    "label": "ARAME A",
+    "level": 0,
+    "posx": 0.5,
+    "posy": 33,
+    "width": 8,
+    "height": 10,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "55",
+    "label": "EV TEMPORARIA 2",
+    "level": 0,
+    "posx": 0.5,
+    "posy": 22.5,
+    "width": 8,
+    "height": 10,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "47",
+    "label": "E.V. FINAL SERP",
+    "level": 0,
+    "posx": 19.7,
+    "posy": 25,
+    "width": 12,
+    "height": 7,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "48",
+    "label": "E.V. FINAL COND",
+    "level": 0,
+    "posx": 19.7,
+    "posy": 16.2,
+    "width": 12,
+    "height": 7,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "28",
+    "label": "PINTURA",
+    "level": 3,
+    "posx": 19.7,
+    "posy": 0.1,
+    "width": 34.2,
+    "height": 15,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "36",
+    "label": "MESA DE COMPONENTES 01-02-03",
+    "level": 1,
+    "posx": 33,
+    "posy": 16.2,
+    "width": 21.4,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "41",
+    "label": "GAB AUT VI",
+    "level": 0,
+    "posx": 41.252,
+    "posy": 20.46,
+    "width": 13,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "32",
+    "label": "TESTE QUALIDADE",
+    "level": 0,
+    "posx": 41.252,
+    "posy": 24.811,
+    "width": 13,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "35",
+    "label": "SUCÇÃO ",
+    "level": 0,
+    "posx": 41.252,
+    "posy": 29.17,
+    "width": 13,
+    "height": 3,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "46",
+    "label": "E.V. BOBINAS ",
+    "level": 2,
+    "posx": 32.971,
+    "posy": 20.265,
+    "width": 8,
+    "height": 12,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "34",
+    "label": "INDIMATEC",
+    "level": 0,
+    "posx": 54.651,
+    "posy": 16.288,
+    "width": 8,
+    "height": 16,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "26",
+    "label": "TESTE VAZ A",
+    "level": 0,
+    "posx": 54.5,
+    "posy": 0.095,
+    "width": 8,
+    "height": 7.5,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "27",
+    "label": "TESTE VAZ B",
+    "level": 0,
+    "posx": 54.5,
+    "posy": 7.695,
+    "width": 8,
+    "height": 7.5,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "37",
+    "label": "TUBO DA CALHA",
+    "level": 0,
+    "posx": 65.792,
+    "posy": 0.095,
+    "width": 8,
+    "height": 14,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "51",
+    "label": "RETRABALHO",
+    "level": 0,
+    "posx": 74,
+    "posy": 0.095,
+    "width": 8,
+    "height": 16,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "07",
+    "label": "VITARI 1",
+    "level": 0,
+    "posx": 86,
+    "posy": 0.095,
+    "width": 35,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "05",
+    "label": "EISA",
+    "level": 0,
+    "posx": 132,
+    "posy": 0.095,
+    "width": 35,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "20",
+    "label": "MESA 01",
+    "level": 0,
+    "posx": 168,
+    "posy": 0.095,
+    "width": 15,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "43",
+    "label": "GAB 8301",
+    "level": 0,
+    "posx": 85.966,
+    "posy": 5.114,
+    "width": 15,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "23",
+    "label": "MESA 24",
+    "level": 0,
+    "posx": 101.3,
+    "posy": 5.114,
+    "width": 15,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "24",
+    "label": "MESA FORÇADOS",
+    "level": 0,
+    "posx": 132,
+    "posy": 5.114,
+    "width": 35,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "06",
+    "label": "CURITIBA",
+    "level": 0,
+    "posx": 88.826,
+    "posy": 10.227,
+    "width": 18,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "22",
+    "label": "MESA 09",
+    "level": 3,
+    "posx": 107.345,
+    "posy": 10.227,
+    "width": 15,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "21",
+    "label": "MESA 08",
+    "level": 0,
+    "posx": 132,
+    "posy": 10.227,
+    "width": 15,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "08",
+    "label": "VITARI 2",
+    "level": 0,
+    "posx": 147.542,
+    "posy": 10.227,
+    "width": 35,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "19",
+    "label": "SCH 09",
+    "level": 0,
+    "posx": 74.22,
+    "posy": 16.76,
+    "width": 12,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "18",
+    "label": "SCH 08",
+    "level": 0,
+    "posx": 86.72,
+    "posy": 16.76,
+    "width": 12,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "17",
+    "label": "SCH 07",
+    "level": 0,
+    "posx": 99.215,
+    "posy": 16.76,
+    "width": 12,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "16",
+    "label": "SCH 06",
+    "level": 0,
+    "posx": 111.56,
+    "posy": 16.76,
+    "width": 12,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "38",
+    "label": "TESTE NIVEA",
+    "level": 0,
+    "posx": 66.996,
+    "posy": 21.023,
+    "width": 12,
+    "height": 3.8,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "39",
+    "label": "GAB AUT IV ",
+    "level": 0,
+    "posx": 66.996,
+    "posy": 25.4,
+    "width": 12,
+    "height": 3.8,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "40",
+    "label": "GAB AUT V",
+    "level": 0,
+    "posx": 66.996,
+    "posy": 29.7423,
+    "width": 12,
+    "height": 3.8,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "45",
+    "label": "GABARITO MANUAL I",
+    "level": 0,
+    "posx": 79.492,
+    "posy": 20.928,
+    "width": 32.2,
+    "height": 12.8,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "42",
+    "label": "GABARITOS TARANTINO",
+    "level": 0,
+    "posx": 111.861,
+    "posy": 23.674,
+    "width": 12,
+    "height": 10,
+    "textOrientation": "vertical"
+  },
+  {
+    "IDmaquinas": "15",
+    "label": "SCH 04",
+    "level": 0,
+    "posx": 128.874,
+    "posy": 16.76,
+    "width": 10,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "14",
+    "label": "SCH 03",
+    "level": 0,
+    "posx": 139.412,
+    "posy": 16.76,
+    "width": 10,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "13",
+    "label": "SCH 02",
+    "level": 0,
+    "posx": 150.403,
+    "posy": 16.76,
+    "width": 10,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "12",
+    "label": "SCH 01",
+    "level": 0,
+    "posx": 161.092,
+    "posy": 16.76,
+    "width": 10,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "00",
+    "label": "KAIZEN",
+    "level": 0,
+    "posx": 171.932,
+    "posy": 16.76,
+    "width": 10,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "50",
+    "label": "C15",
+    "level": 0,
+    "posx": 128.874,
+    "posy": 21.023,
+    "width": 10,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "11",
+    "label": "CARDINALLE 2",
+    "level": 0,
+    "posx": 139.5,
+    "posy": 21.023,
+    "width": 42.5,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "44",
+    "label": "GAB 8501",
+    "level": 0,
+    "posx": 128.874,
+    "posy": 25.1,
+    "width": 10,
+    "height": 4.4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "31",
+    "label": "M PRAT ",
+    "level": 0,
+    "posx": 128.874,
+    "posy": 29.6,
+    "width": 15,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "25",
+    "label": "M ASA DELTA 1 ",
+    "level": 0,
+    "posx": 139.262,
+    "posy": 25.3,
+    "width": 10,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "09",
+    "label": "ANDERSON",
+    "level": 4,
+    "posx": 149.65,
+    "posy": 25.3,
+    "width": 21.2,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "33",
+    "label": "M ASA DELTA 2",
+    "level": 0,
+    "posx": 171.7,
+    "posy": 25.3,
+    "width": 10,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "10",
+    "label": "CARDINALLE 1",
+    "level": 0,
+    "posx": 144.23,
+    "posy": 29.6,
+    "width": 27,
+    "height": 4,
+    "textOrientation": "horizontal"
+  },
+  {
+    "IDmaquinas": "53",
+    "label": "MESA HTGELOPAR",
+    "level": 1,
+    "posx": 171.7,
+    "posy": 29.6,
+    "width": 10,
+    "height": 4,
+    "textOrientation": "horizontal"
+  }
+]
