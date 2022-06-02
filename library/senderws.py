@@ -12,8 +12,9 @@ class WebSocketConfig:
 
 class WebsocketMessage:
     def __init__(self):
-        self.subject = None
-        self.sender = None
+        self.subject = ""
+        self.sender = ""
+        self.persist = False
         self.topics = []
         self.payload = None
     
@@ -26,6 +27,7 @@ class WebsocketMessage:
             obj.sender = data.get('sender')
             obj.topics = data.get('topics')
             obj.payload = data.get('payload')
+            obj.persist = data.get('persist')
             return obj
         except Exception as e:
             print(f'[ERROR] Error in WebsocketMessage =>  {e}')
@@ -37,6 +39,7 @@ class WebsocketMessage:
             "sender" : self.sender,
             "topics" : self.topics,
             "payload" : self.payload,
+            "persist" : self.persist,
         }
 
 class SendMessageWS():
