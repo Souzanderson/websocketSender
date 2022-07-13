@@ -52,6 +52,7 @@ class SendMessageWS():
             print(f"{self.__config__.URL}?hashcode={self.__message__.sender}&topics=system")
             ws = create_connection(f"{self.__config__.URL}?hashcode={self.__message__.sender}&topics=system")
             ws.send(json.dumps(self.__message__.toDict(), indent=4))
+            ws.close()
         except Exception as e:
             print("[ERROR] Erro ao enviar notificação => %s" %str(e))
 
